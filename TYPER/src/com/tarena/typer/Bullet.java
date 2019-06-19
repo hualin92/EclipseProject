@@ -1,5 +1,4 @@
 package com.tarena.typer;
-
 public class Bullet {
 	int x, y;
 	Enemy enemy;
